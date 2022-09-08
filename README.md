@@ -37,7 +37,7 @@ My name is **Emmanuel Clinton Ufere** Known as 9ice_guy! I am a web developer fr
 
 👯 List of the few projects i'm currently working on:
 
-### ⚖ [Vue Crypto Market Rate](crypto-market-price.vercel.app/)
+### ⚖ [Vue Crypto Market Rate](https://crypto-market-price.vercel.app/)
 
 List of trending coins from an [api](https://www.coingecko.com/en/api/documentation), and current market rate.
 
