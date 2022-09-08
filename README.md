@@ -86,7 +86,7 @@ Vjson allows users to visually create a json property and values, afterwards dow
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/clintonufere" target="_blank">
     <img src="https://img.shields.io/twitter/follow/clinton9ice?logo=twitter&style=for-the-badge" alt="clinton9ice" />
   </a>
