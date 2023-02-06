@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-My name is **Emmanuel Clinton Ufere** Known as 9ice_guy! I am a web developer from Africa. I focus mostly on development using JavaScript.
+My name is **Emmanuel Clinton Ufere** Known as 9ice_guy! I am a Frontend Engineer. I use mostly Typescript and JavaScript for my development process.
 
 <p align="left">
-  <a href="https://clinton.nextoli.com.ng" target="_blank">
+  <a href="https://dev9ice.com.ng" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2a89e2&style=flat&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/emmanuel-ufere-1ab082198" target="_blank">
@@ -31,55 +31,13 @@ My name is **Emmanuel Clinton Ufere** Known as 9ice_guy! I am a web developer fr
 </p>
 <br />
 
-🌱 Most of my time is spent in mastering frontend development using Vue.js and, React.js. Currently, I am learning Blockchain and Solidity, how to create smart contracts and offer values and security to the people.
+🌱 Most of my time is spent developing and widening my knowledge on few technology tools like Vue.js and React.js.
 
 ⚡ In my free time, I do physical activities like [cycling, singing, and baking], or I either spend my time reading and writing technical blogs (which i just recently started by the way). Being a big fan of Vue.js, my projects are mostly based on Vue.js or JavaScript.
 
-👯 List of the few projects i'm currently working on:
-
-### ⚖ [Vue Crypto Market Rate](https://crypto-market-price.vercel.app/)
-
-List of trending coins from an [api](https://www.coingecko.com/en/api/documentation), and current market rate.
+👯 List of the few projects i did can be found in my repositories.
 
 
-### 💻 [Project Storage List](https://todo-manager-col.vercel.app/)
-
-Storing tasks temporarily in vuex states based on status
-
-### 🕶 [Virtual JSON Generator](https://virtual-json.nextoli.com.ng/)
-
-Vjson allows users to visually create a json property and values, afterwards download and store the file for use.
-
-### Stack
-- Firestore
-- Vue
-- Vuex
-- Javascript
-
----------------------------------------------------------
-<br />
-
-<h1 align="left">Technologies</h1>
-
-<p align="left">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=red&style=flat&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=blue&style=flat&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=gray&style=flat&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=purple&style=flat&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=yellow&style=flat&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=blue&style=flat&logo=react"/>
-      <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=gold&style=flat&logo=solidity"/>
-       <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&style=flat&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=red&style=flat&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=gree&style=flat&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=flat&logo=express"/>
-        <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=orange&style=flat&logo=firebase"/>
-    </p>
-
-
-<h3 align="left">
-<!-- <img src="https://avatars.githubusercontent.com/u/57812399?v=4?username=clinton9ice&label=Profile%20views&color=0e75b6&style=flat" alt="clinton9ice"> -->
-</h3>
 <br />
 
 <h1 align="left">Connect</h1>
@@ -90,7 +48,7 @@ Vjson allows users to visually create a json property and values, afterwards dow
   <a href="https://twitter.com/clintonufere" target="_blank">
     <img src="https://img.shields.io/twitter/follow/clinton9ice?logo=twitter&style=for-the-badge" alt="clinton9ice" />
   </a>
-  <a href="https://clinton.nextoli.com.ng" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-clinton.nextoli.com.ng-orange?style=flat&logo=google-chrome"></a>
+  <a href="https://dev9ice.com.ng" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-clinton.nextoli.com.ng-orange?style=flat&logo=google-chrome"></a>
 
   <a href="https://www.linkedin.com/in/emmanuel-ufere-1ab082198" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=flat&logo=linkedin"/>
